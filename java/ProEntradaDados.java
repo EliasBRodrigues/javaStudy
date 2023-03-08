@@ -2,15 +2,9 @@ package proentradadados;
 
 import java.util.Scanner;
 
-/**
- *
- * @author dsm-2
- */
+
 public class ProEntradaDados {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // adicionar dados
         int n1, n2, sum, sub, ply, div;

@@ -2,15 +2,9 @@ package varidade;
 
 import java.util.Scanner;
 
-/**
- *
- * @author dsm-2
- */
+
 public class VarIdade {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         
         int age, days;

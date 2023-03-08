@@ -2,15 +2,10 @@ package mediafinal;
 
 import java.util.Scanner;
 
-/**
- *
- * @author dsm-2
- */
+
 public class MediaFinal {
 
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) {
     
         int n1, n2, n3, n4, n5, n6, mediaFirst, mediaSecond, mediaFinal;
